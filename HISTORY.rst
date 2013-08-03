@@ -1,3 +1,7 @@
+0.2.17
+------
+- `Ctrl-C` now acts like `Esc`
+
 0.2.16
 ------
 - Update to tweepy 2.1, fix search functionality
